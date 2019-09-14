@@ -1,0 +1,41 @@
+Type Name Price/Effect Misc
+Effect Go 200 Go
+Brown Mediterranean Avenue 60 50 2 10 30 90 160 250
+Card Community Chest
+Brown Baltic Avenue 60 50 4 20 60 180 320 450
+Effect Income Tax -200 Money
+Black Reading Railroad 200 25 50 150 200
+Cyan Oriental Avenue 100 50 6 30 90 270 400 550
+Card Chance
+Cyan Vermont Avenue 100 50 6 30 90 270 400 550
+Cyan Connecticut Avenue 120 50 8 40 100 300 450 600
+Misc Jail
+Pink St. Charles Place 140 100 10 50 150 450 625 750
+White Electric Company 150 4 10
+Pink States Avenue 140 100 10 50 150 450 625 750
+Pink Virginia Avenue 160 100 12 60 180 500 700 900
+Black Pennsylvania Railroad 200 25 50 150 200
+Orange St. James Place 180 100 14 70 200 550 750 950
+Card Community Chest
+Orange Tennessee Avenue 180 100 14 70 200 550 750 950
+Orange New York Avenue 200 100 16 80 220 600 800 1000
+Misc Free Parking
+Red Kentucky Avenue 220 150 18 90 250 700 875 1050
+Card Chance
+Red Indiana Avenue 220 150 18 90 250 700 875 1050
+Red Illinois Avenue 240 150 20 100 300 750 925 1100
+Black B&O Railroad 200 25 50 150 200
+Yellow Atlantic Avenue 260 150 22 110 330 800 975 1150
+Yellow Ventnor Avenue 260 150 22 110 330 800 975 1150
+White Water Works 150 4 10
+Yellow Marvin Gardens 280 150 24 120 360 850 1025 1200
+Effect Jail 0 Jail
+Green Pacific Avenue 300 200 26 130 390 900 1100 1275
+Green North Carolina Avenue 300 200 26 130 390 900 1100 1275
+Card Community Chest
+Green Pennsylvania Avenue 320 200 28 150 450 1000 1200 1400
+Black Short Line 200 25 50 150 200
+Card Chance
+Blue Park Place 350 200 35 175 500 1100 1300 1500
+Effect Luxury Tax -100 Money
+Blue Boardwalk 400 200 50 200 600 1400 1700 2000

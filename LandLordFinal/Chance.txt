@@ -1,0 +1,12 @@
+Get out of Jail Free Card 1 Jail
+Advance to GO 1 Go
+Bank pays you dividend of $50 50 Money
+Speeding fine: $15 -15 Money
+Pay poor tax of $12 -12 Money
+Your loan with the bank matures. Collect $150 150 Money
+Advance two spaces. 2 Move
+Go back three spaces. -3 Move
+Parking fine: $20 -20 Money
+Go back one space. -1 Move
+Advance four spaces. 4 Move
+Go to Jail. 0 Jail

@@ -1,0 +1,7 @@
+Advance to GO 1 Go
+Bank error in your favor. Collect $150. 150 Money
+From sale of stock you get $50. 45 Money
+Income tax refund. Collect $20. 20 Money
+Hospital fees. Pay $50. -50 Money
+School fees. Pay $25. -25 Money
+You inherit $100. 100 Money
